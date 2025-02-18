@@ -192,6 +192,14 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+# customized by ychen
+  - _posts/
+  - _pages/blog.md
+  - _news/
+  - _news/announcement_*.md
+  - _projects/
+  - _pages/projects.md
+  - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
