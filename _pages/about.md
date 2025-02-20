@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: About Me
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year IT Ph.D. student of the Department of Computer & Information Sciences at Towson University, advised by [Dr. Yifan Guo](https://yifan-guo.com/www/index.html). My research interest lays on Edge Computing and AI Security.
+I am a second-year IT Ph.D. student of the Department of Computer & Information Sciences at Towson University, advised by [Dr. Yifan Guo](https://yifan-guo.com/www/index.html). My research interests focus on Edge Computing and AI Security.
