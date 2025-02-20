@@ -6,13 +6,13 @@
     "url": "https://yixinchen6.github.io/",
     "summary": "Ongoing IT Ph.D. at Towson University"
   },
-  "experience": [
+  "work": [
     {
       "name": "Department of Computer and Information Sciences, Towson University",
       "position": "Graduate Research Assistant",
       "url": "https://wp.towson.edu/wyu/",
       "startDate": "2023-08",
-      "endDate": "Present"
+      "endDate": ""
     }
   ],
   "education": [
@@ -22,7 +22,7 @@
       "area": "Information Technology",
       "studyType": "Ph.D.",
       "startDate": "2023-08",
-      "endDate": "Present"
+      "endDate": ""
     },
     {
       "institution": "University of Glasgow, Glasgow, UK",
